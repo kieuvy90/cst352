@@ -1,0 +1,34 @@
+#myHeader{
+    color: #FAED26;
+    text-align: center;
+    font-size: 380%;
+}
+.topnav {
+  overflow: visible;
+  background-color: #333;
+}
+
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  
+}
+/**
+.topnav a:hover {
+  background-color: #45A29E;
+  color: black;
+}*/
+
+.active {
+  /*background-color: #45A29E;*/
+  color: #45A29E;
+  margin-left: 38%;
+}
+.para{
+    color: white;
+}
