@@ -1,0 +1,7 @@
+[13-Sep-2018 17:17:50 UTC] PHP Parse error:  syntax error, unexpected 'My' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/cst352/labs/lab2/lucky/lucky.php on line 12
+[13-Sep-2018 17:17:58 UTC] PHP Parse error:  syntax error, unexpected 'My' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/cst352/labs/lab2/lucky/lucky.php on line 12
+[13-Sep-2018 17:18:14 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/cst352/labs/lab2/lucky/lucky.php on line 12
+[13-Sep-2018 17:25:13 UTC] PHP Parse error:  syntax error, unexpected '$lucky' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/cst352/labs/lab2/lucky/lucky.php on line 15
+[13-Sep-2018 17:31:55 UTC] PHP Fatal error:  Call to undefined function getLuckyNumber() in /home/ubuntu/workspace/cst352/labs/lab2/lucky/lucky.php on line 23
+[13-Sep-2018 17:31:55 UTC] PHP Stack trace:
+[13-Sep-2018 17:31:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst352/labs/lab2/lucky/lucky.php:0
